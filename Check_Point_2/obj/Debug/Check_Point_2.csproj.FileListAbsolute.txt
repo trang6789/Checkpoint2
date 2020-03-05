@@ -1,0 +1,6 @@
+C:\Users\TNG77\source\repos\Check_Point_2\Check_Point_2\bin\Debug\Check_Point_2.exe.config
+C:\Users\TNG77\source\repos\Check_Point_2\Check_Point_2\bin\Debug\Check_Point_2.exe
+C:\Users\TNG77\source\repos\Check_Point_2\Check_Point_2\bin\Debug\Check_Point_2.pdb
+C:\Users\TNG77\source\repos\Check_Point_2\Check_Point_2\obj\Debug\Check_Point_2.csprojAssemblyReference.cache
+C:\Users\TNG77\source\repos\Check_Point_2\Check_Point_2\obj\Debug\Check_Point_2.exe
+C:\Users\TNG77\source\repos\Check_Point_2\Check_Point_2\obj\Debug\Check_Point_2.pdb
